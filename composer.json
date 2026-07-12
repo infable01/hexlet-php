@@ -1,0 +1,14 @@
+{
+    "name": "infable/first-project",
+    "description": "first project on PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dannil Smolenok",
+            "email": "smolenokda@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
